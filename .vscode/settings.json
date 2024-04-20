@@ -1,0 +1,9 @@
+{
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#3B0385",
+    "titleBar.activeBackground": "#5204BB",
+    "titleBar.activeForeground": "#FDFBFF",
+    "terminal.integrated.fontSize": 14,
+    "terminal.integrated.mouseWheelZoom": false
+  }
+}
